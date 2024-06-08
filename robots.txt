@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://krptist.github.io/sitemap/sitemap.txt
